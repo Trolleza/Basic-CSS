@@ -1,0 +1,22 @@
+body{
+    
+}
+
+#Main{
+    color:rgb(216, 37, 162);
+    background-image: url(./Background/Mint.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#Main2{
+    color:rgb(216, 37, 162);
+    background-image: url(./Background/Mint.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#Title{
+    color:blue;
+}
