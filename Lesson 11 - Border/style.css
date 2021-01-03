@@ -1,0 +1,27 @@
+.border{
+    border-width: 5px 2px 10px 15px;
+    border-style: solid;
+    border-color: red green blue yellow;
+    border-radius: 5px;}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border-radius: 50%;}
+
+.dotted{
+    background-color: rgb(122, 122, 238);
+    border-top-style: dotted;}
+
+.dashed{
+    background-color: rgb(235, 137, 137);
+    border-style: dashed;}
+
+.none{
+    background-color: rgb(180, 122, 235);
+    border-style: none;}
+
+.hidden{
+    background-color: burlywood;
+    border-style: hidden;}
