@@ -1,0 +1,29 @@
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;}
+
+#mm{
+    background-color: red;
+    width: 5mm;
+    height: 5mm;}
+
+#in{
+    background-color: green;
+    width: 1in;
+    height: 1in;}
+
+#px{
+    background-color: purple;
+    width: 10px;
+    height: 10px;}
+
+#pt{
+    background-color: gold;
+    width: 10px;
+    height: 10px;}
+
+#pc{
+    background-color: grey;
+    width: 10pc;
+    height: 10pc;}
