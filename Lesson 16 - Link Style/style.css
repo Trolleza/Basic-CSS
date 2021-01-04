@@ -1,0 +1,17 @@
+.links{
+   text-decoration: none;
+   color: cornflowerblue;
+   cursor: crosshair;
+   padding: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-radius: 10px;
+   border: 5px solid cornflowerblue;}
+
+/*.links:hover{
+   background: red;
+   color: white;}*/
+
+.links:active{
+   background: red;
+   color: white;}
