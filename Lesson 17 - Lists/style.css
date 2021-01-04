@@ -1,0 +1,15 @@
+ul{
+   list-style-image: url("./images/carac.jpg");
+   padding: 10px;
+   margin: 0;
+   list-style-position: inside;
+   background-color: coral;}
+
+ol{
+   list-style-type: lower-roman;}
+
+li{
+   border: 2px solid green;
+   background-color: yellow;
+   margin: 20px;
+   padding: 5px;}
