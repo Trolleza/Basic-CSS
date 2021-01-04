@@ -1,0 +1,9 @@
+h1{
+   font-family: Arial, Helvetica, sans-serif;}
+
+p{
+   font-family: Redressed-Regular, cursive, sans-serif;}
+
+@font-face{
+   font-family: Redressed-Regular;
+   src: url(./fonts/Redressed-Regular.ttf)}
