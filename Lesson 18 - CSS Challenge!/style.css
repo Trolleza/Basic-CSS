@@ -1,0 +1,50 @@
+@font-face{
+	font-family: BerkshireSwash;
+	src: url(./font/BerkshireSwash.ttf);}
+
+@font-face{
+	font-family: OpenSansCondensed;
+	src: url(./font/OpenSansCondensed.ttf);}
+
+#principal{
+	color: black;
+	text-shadow: 2px 2px 5px grey;
+	margin: 20px;
+	font-family: 'BerkshireSwash', cursive;}
+
+div{
+	background-image: url(./Imagens/background.png);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	height: 200px;
+	width: 400px;
+	box-sizing: border-box;
+	margin: auto;
+	margin-top: 20%;
+	border: solid black;
+	border-width: 5px 3px 10px 15px;}
+
+li{
+	margin-left: 40px;}
+
+a{
+	text-decoration: none;
+	color: black;}
+
+.Insta{
+	list-style-image: url("./Imagens/Insta.png");
+	line-height: 30px;
+	text-shadow: 2px 2px 5px orange;
+	font-family: 'OpenSansCondensed', cursive;}
+
+.Twitter{
+	list-style-image: url("./Imagens/Twitter.png");
+	line-height: 30px;
+	text-shadow: 2px 2px 5px blue;
+	font-family: 'OpenSansCondensed', cursive;}
+
+.Youtube{
+	list-style-image: url("./Imagens/Youtube.png");
+	text-shadow: 2px 2px 5px red;
+	font-family: 'OpenSansCondensed', cursive;}
+
